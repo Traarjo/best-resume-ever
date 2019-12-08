@@ -12,78 +12,56 @@ experience:
 - company: OsloMet - Storbyuniversitetet
   position: Innovation Camp Coordinator
   timeperiod: August 2018 - 
-  description: Planlegger events, er et mellomledd mellom arrangører, foredragsholdere og deltakere, 
-  har ofte en mentor-rolle under eventene, og noen ganger er det også jeg som holder selve eventet. 
+  description: Planlegger events, er et mellomledd mellom arrangører, foredragsholdere og deltakere, har ofte en mentor-rolle under eventene og noen ganger er det også jeg som holder selve eventet. 
 
 - company: OsloMet - Storbyuniversitetet
   position: Freelance Web Developer
-  timeperiod: January 2019 - May 2019
-  description: Fullstack-utvikler av en nettside for et internt prosjekt ved bruk av Wordpress. 
-  Utvikling av funksjonalitet, impementasjon av design og analyse av brukerbehov.
+  timeperiod: Januar 2019 - Mai 2019
+  description: Fullstack-utvikler av en nettside for et internt prosjekt ved bruk av Wordpress. Utvikling av funksjonalitet, impementasjon av design og analyse av brukerbehov.
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: OsloMet Gaming (Studentforening)
+  position: Leder
+  timeperiod: August 2017 - Januar 2018
+  description: Overordnet ansvar, konfliktløsning etc.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
-  website: https://example.com
+- degree: Bachelor i Anvendt Datateknologi
+  timeperiod: August 2017 - 
+  description: OsloMet - Storbyuniversitetet
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
-  description: Major in Engineering, University B, Los Angeles, USA.
+- degree: Bachelor i Økonomi og Administrasjon
+  timeperiod: August 2016 - Juni 2017
+  description: OsloMet - Storbyuniversitetet
+
+- degree: Årsstudium i Kunsthistorie
+  timeperiod: August 2015 - Juni 2016
+  description: Universitetet i Oslo
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
+- name: HTML
+  level: 90
+- name: CSS
+  level: 90
 - name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
+  level: 50
+- name: Java
   level: 60
-- name: TypeScript
+- name: Git
   level: 80
-- name: ES.Next
-  level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
-
-projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
-
-hobbies:
-- name: Video Games
-  iconClass: fa fa-gamepad
-  url: https://example.com
-
-- name: Drawing
-  iconClass: fa fa-pencil
-  url: https://example.com
-
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Bash / Zsh
+  level: 60
+- name: Microsoft Office
+  level: 95
+- name: English
+  level: 100
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: traarj@gmail.com
+  phone: 906 22 412
+  street: Anna Sethnes Gate 4B
+  city: Oslo
+  github: Traarjo
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+lang: nb-no
 `
